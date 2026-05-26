@@ -1,0 +1,18 @@
+Git is a version control system used to manage and track changes in files and programs.
+
+GitHub is an online platform used to store Git repositories and share projects with others.
+
+Advantages of Git:
+1. Tracks code changes
+2. Saves project history
+3. Helps teamwork
+4. Easy backup
+
+Advantages of GitHub:
+1. Online project storage
+2. Code sharing
+3. Team collaboration
+4. Open-source support
+
+Git works on local computer.
+GitHub works on the internet.

@@ -1,0 +1,27 @@
+Use of Git
+
+Git is a version control system used to track changes in files and programs. It helps developers manage projects and work together easily.
+
+Uses of Git
+Tracks code changes
+Saves project history
+Helps teamwork
+Restores old versions
+Prevents data loss
+Uploads projects to GitHub
+Basic Git Commands
+git init
+
+Creates repository.
+
+git add .
+
+Adds files.
+
+git commit -m "message"
+
+Saves changes.
+
+git push
+
+Uploads code to GitHub.
